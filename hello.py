@@ -1,4 +1,4 @@
 # program for Hi
 # Hi hello
-print('Hi')
+print('Hi hello')
 print('Hello World')
