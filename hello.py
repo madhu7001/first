@@ -1,3 +1,3 @@
-# program for Hello
+# program for Hi
 
 print('Hello World')
